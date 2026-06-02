@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an Integrated Ph.D. candidate in Se-Hoon Lee's Lab at SAIHST, Sungkyunkwan University. I study host–microbiome interactions in lung cancer and immunotherapy, bridging clinical and computational approaches.
+I am an Integrated Ph.D. candidate in Se-Hoon Lee's Lab at SAIHST (Samsung Advanced Institute for Health Science & Technology), Sungkyunkwan University.
+I study host–microbiome interactions in lung cancer and immunotherapy, bridging clinical and computational approaches.
 
 Research
 ======
